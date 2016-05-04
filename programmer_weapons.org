@@ -4,13 +4,13 @@
  - [[#工具说-][工具说 ]]
  - [[#配置文件][配置文件]]
  - [[#七种武器][七种武器]]
-   - [[#zsh-][zsh ]]
-   - [[#tmux-][tmux ]]
-   - [[#ag][ag]]
-   - [[#ctags][ctags]]
-   - [[#editors][editors]]
-   - [[#fzf][fzf]]
-   - [[#alfred][alfred]]
+   - [[#zsh-][Zsh ]]
+   - [[#tmux-][Tmux ]]
+   - [[#ag][Ag]]
+   - [[#ctags][Ctags]]
+   - [[#editors][Editors]]
+   - [[#fzf][Fzf]]
+   - [[#alfred][Alfred]]
  - [[#总结][总结]]
    - [[#关于编辑器][关于编辑器]]
 
@@ -27,13 +27,13 @@
 * 配置文件
 本文介绍的工具，配置文件请参考:[[https://github.com/dingmingxin/dotfiles/releases/tag/v0.1.0][dmxdotfiles-v0.1.0]]
 * 七种武器
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/zsh.org][zsh]] 
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/tmux.org][tmux]] 
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/tmux.org][ag]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/ctags.org][ctags]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/editors.org][editors]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/fzf.org][fzf]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/alfred.org][alfred]]
+** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/zsh.org][Zsh]] 
+** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/tmux.org][Tmux]] 
+** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/tmux.org][Ag]]
+** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/ctags.org][Ctags]]
+** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/editors.org][Editors]]
+** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/fzf.org][Fzf]]
+** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/alfred.org][Alfred]]
 * 总结
 ** 关于编辑器
 编辑器对于程序员来说就像是一把利刃，用好了能事半功倍
