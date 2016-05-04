@@ -85,19 +85,19 @@ zsh特性繁多，在此我只简单介绍一两个我熟悉并且经常使用�
   cd /data/work/test/01
 #+end_src
 ****** 路径替换
-1.
+同一路径的子目录
 #+begin_src sh
   cd /usr/local/bin && cd bin share 
   # 相当于下面这行
   cd /usr/local/bin && cd ../share
 #+end_src
 
-2. 
-  #+begin_src sh
-    cd /data/www/site1/apps/common/logic/test && cd site1 site2 
-    #相当于
-    cd /data/www/site1/apps/common/logic/test && cd ../../../../site2/apps/common/logic/test
-  #+end_src 
+同一路径的中间子目录替换
+#+begin_src sh
+ cd /data/www/site1/apps/common/logic/test && cd site1 site2 
+ #相当于
+ cd /data/www/site1/apps/common/logic/test && cd ../../../../site2/apps/common/logic/test
+#+end_src 
 ***** 命令选项补全
 Examples:
 
