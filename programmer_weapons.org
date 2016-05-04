@@ -96,7 +96,9 @@ Examples:
 相比bash中的Ctrl-R，这个插件很好用
 
 启用: 在~/.zshrc中添加: plugins=(history-substring-searc h)
---TODO pic here 
+
+[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_history_sub_search.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_history_sub_search.gif]]
+
 ***** 结合fzf更好用
 **** 提示主题
 zsh自身对终端提示有很好的支持接口，并且自带了对版本控制工具的信息接口
