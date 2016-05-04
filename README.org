@@ -1,0 +1,7 @@
+* 目录                                                               :TOC_3_gh:
+ - [[#程序员的七种武器][程序员的七种武器]]
+ - [[#其他有用的工具][其他有用的工具]]
+
+* 程序员的七种武器
+[[https://github.com/dingmingxin/awesome-tools/blob/master/programmer_weapons.org][程序员的七种武器]]
+* 其他有用的工具
