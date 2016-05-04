@@ -1,3 +1,28 @@
+* 目录                                                               :TOC_4_gh:
+ - [[#简介][简介]]
+ - [[#zsh-vs-bash--特点及优势][zsh vs bash : 特点及优势]]
+ - [[#具体特点详述][具体特点详述]]
+   - [[#自动补全][自动补全]]
+     - [[#cd-自动补全][cd 自动补全]]
+       - [[#路径缩写补全][路径缩写补全]]
+       - [[#路径替换][路径替换]]
+     - [[#命令选项补全][命令选项补全]]
+   - [[#zsh-history-substring-search][zsh-history-substring-search]]
+     - [[#结合fzf更好用ctrl-r-binding-with-fzf-functions][结合fzf更好用(Ctrl-R binding with fzf functions)]]
+   - [[#提示主题][提示主题]]
+ - [[#oh-my-zsh][oh-my-zsh]]
+   - [[#install][Install]]
+   - [[#简介][简介]]
+ - [[#我的zsh配置][我的zsh配置]]
+   - [[#安装][安装]]
+   - [[#配置文件介绍][配置文件介绍]]
+     - [[#zsh_aliaszsh][~/.zsh_alias.zsh]]
+     - [[#zsh_custom][~/.zsh_custom]]
+     - [[#zsh_envzsh][~/.zsh_env.zsh]]
+     - [[#zshrc][~/.zshrc]]
+     - [[#zprofile][~/.zprofile]]
+   - [[#文件引用顺序][文件引用顺序]]
+
 * 简介
 1. 家族: *nix
 2. 出生: 1990s

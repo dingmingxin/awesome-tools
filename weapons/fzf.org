@@ -1,8 +1,10 @@
-** fzf
 github 地址: [[https://github.com/junegunn/fzf][fzf-github]]
 这是一个go语言写的工具，用于命令行的fuzzy finder
 他的输入是一个数组，输出是用户的选择项。
-*** 我写的fzf工具
+* 目录                                                               :TOC_4_gh:
+ - [[#我写的fzf工具][我写的fzf工具]]
+
+* 我写的fzf工具
 
 [[https://github.com/dingmingxin/fzf-emacsbuffers][fzf-emacsbuffers]]
 

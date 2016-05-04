@@ -1,3 +1,4 @@
+#+BEGIN_ABSTRACT
 终端会话管理工具
 
 你还在为开了好多终端窗口记不住那条命令在哪里运行着吗？
@@ -6,6 +7,13 @@
 有了tmux，你再也不用发愁了，它不会很复杂，一个server, 一个client, 一个配置文件而已
 
 具体使用请参考man tmux
+#+END_ABSTRACT
+* 目录                                                               :TOC_2_gh:
+ - [[#examples][Examples]]
+ - [[#tmuxinator][tmuxinator]]
+   - [[#install][Install]]
+   - [[#usage][Usage]]
+
 * Examples
 tmux + tmuxinator
 

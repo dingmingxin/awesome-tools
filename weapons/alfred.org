@@ -1,2 +1,5 @@
-** Alfred.app
+* 目录                                                               :toc_4_gh:
+ - [[#alfredapp][Alfred.app]]
+
+* Alfred.app
 很多的workflow，和电脑更好、更快捷的交互
