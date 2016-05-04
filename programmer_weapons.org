@@ -287,7 +287,8 @@ ag 搜索时，默认忽略了 .gitignore .hgignore .svnignore等版本控制系
 #+end_src
 ***** 使用正则搜索
 ag正则搜索使用的是[[http://sljit.sourceforge.net/pcre.html][PCRE's JIT compiler]], 兼容perl 的正则表达式
-正则的使用内容很多，要展开讲的话需要单独的篇幅，这里只举一两个简单的例子
+
+正则的使用内容有很多，要真正展开讲的话需要单独的篇幅，这里只举一两个简单的例子
 ****** 搜索单词
 #+begin_src sh
   ag "\bword\b"  #搜索单词
@@ -302,6 +303,7 @@ ag正则搜索使用的是[[http://sljit.sourceforge.net/pcre.html][PCRE's JIT c
 site: [[http://ctags.sourceforge.net/][Exuberant Ctags]]
 
 基于正则表达式的文本tag生成器。
+
 不光可以过滤代码文件，普通的有格式的纯文本都可以用。
 *** tag文件的作用
 一般用于编辑器的代码跳转和查找
@@ -372,6 +374,7 @@ set tags+=./tags
 ** Editors
 *** 编辑器之神 - Vim
 VIM is "Vi IMproved"
+
 介绍vim之前，先介绍下vi
 **** vi
 vi是一款由加州大学伯克利分校，Bill Joy 研究开发的文本编辑器
@@ -379,6 +382,7 @@ vi是一款由加州大学伯克利分校，Bill Joy 研究开发的文本编辑
 如果再往前追根溯源，能从vi的操作中看出流编辑器ed的身影
 
 vi是一款模式编辑器，有一下三种模式:
+
 1. Command mode
 2. Visual mode
 3. Insert mode
@@ -391,6 +395,7 @@ Link-org: [[http://www.vim.org][vim.org]]
 Link-wikipedia: [[https://en.wikipedia.org/wiki/Vim_(text_editor)][Vim(text editor)]]
 ***** 如何学习
 学习vim最便捷、最高效的方式，就是在阅读vim的文档
+
 在vim输入:help或者:h 查看帮助
 ***** 模式
 vim是模式编辑器，有以下几种不同的模式
@@ -413,12 +418,16 @@ Ctrl-v
 
 ****** Command-Line mode
 按: 进入，一般用于高级的用于操作文件的，比如打开、关闭...
+
 还可以用于高级的编辑
+
 还可以用于设置编辑的选项等等
 ****** 模式间的转换
 ******* Normal->Insert
 在normal模式下按下这些键可以进入insert模式
+
 下面是这些按下这些键，进入insert模式之后光标的位置说明
+
 - i 光标前
 - I 行首
 - a 光标后
@@ -437,11 +446,15 @@ v V C-v
 ESC
 ***** 编辑
 大部分的编辑技巧在于normal状态，Insert状态下
+
 做好提示的配置就可以了
+
 这里只做简单介绍，具体可参考vim的帮助文件
 ****** 移动
 :h usr_03.txt
+
 Normal 模式下的光标移动
+
 ******* - h j k l: 光标往左、下、上、右移动
 ******* w b e ge
 w 移动到下一个单词的开头
@@ -481,6 +494,7 @@ v p ; V p
 :h objects
 ******* 命令计数
 4w  光标向后移动四个单词的位置
+
 d2w 删除2单词
 ***** 搜索及替换
 这部分涉及到正则表达式的内容
