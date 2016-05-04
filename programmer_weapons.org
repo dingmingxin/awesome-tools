@@ -549,8 +549,7 @@ github 地址: [[https://github.com/junegunn/fzf][fzf-github]]
 注意：这个工具仅限于命令行下emacs 的daemon 模式
 
 Example:
-
-![](https://raw.githubusercontent.com/dingmingxin/fzf-emacsbuffers/master/fzf-emacsbuffers.gif)
+[[https://raw.githubusercontent.com/dingmingxin/fzf-emacsbuffers/master/fzf-emacsbuffers.gif][fzf-emacsbuffers.gif]]
 
 ** Alfred.app
 很多的workflow，和电脑更好、更快捷的交互
