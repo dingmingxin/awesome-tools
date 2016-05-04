@@ -100,13 +100,14 @@ Examples:
 [[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_history_sub_search.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_history_sub_search.gif]]
 
 ***** 结合fzf更好用(Ctrl-R binding with fzf functions)
-安装fzf过程中提示，是否绑定快捷键，这样，Ctrl-R 就被绑定到一个基于fzf的函数，代替了原来的zsh Ctrl-R
+
+安装fzf过程中提示"是否绑定快捷键"，选择是，这样，Ctrl-R 就被绑定到一个基于fzf的函数，代替了原来的zsh Ctrl-R
+(严格来说，这不是zsh提供的特性，暂且就放在这里吧)
 
 [[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_fzf_ctrl_r.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_fzf_ctrl_r.gif]]
 **** 提示主题
 zsh自身对终端提示有很好的支持接口，并且自带了对版本控制工具的信息接口
 比如可以获取当前git 库的分支、当前分支是否是clean，都可以获得
---TODO pic here
 *** oh-my-zsh
 zsh在开源社区，有个很著名的仓库: [[https://github.com/robbyrussell/oh-my-zsh][oh-my-zsh]]
 **** Install
