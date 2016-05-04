@@ -85,8 +85,13 @@ cd /d/w/t/0 -> cd /data/work/test/01
 2. cd /data/www/site1/apps/common/logic/test && cd site1 site2 
    相当于 cd /data/www/site1/apps/common/logic/test && cd ../../../../site2/apps/common/logic/test
 ***** 命令选项补全
-examples: ls -s <TAB>
---TODO pic here
+Examples:
+
+#+begin_src sh
+  ls -s <TAB>
+#+end_src
+
+[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_ls.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_zsh_ls.gif]]
 **** zsh-history-substring-search
 相比bash中的Ctrl-R，这个插件很好用
 
