@@ -11,7 +11,7 @@
      - [[#oh-my-zsh][oh-my-zsh]]
      - [[#我的zsh配置][我的zsh配置]]
    - [[#tmux][tmux]]
-     - [[#示例图][示例图]]
+     - [[#examples][Examples]]
      - [[#tmuxinator][tmuxinator]]
    - [[#the_silver_searcherag][the_silver_searcher(ag)]]
      - [[#ag-vs-ack][ag vs ack]]
@@ -162,8 +162,14 @@ zsh的配置文件
 有了tmux，你再也不用发愁了，它不会很复杂，一个server, 一个client, 一个配置文件而已
 
 具体使用请参考man tmux
-*** 示例图
---TODO pic here
+*** Examples
+tmux + tmuxinator
+
+window、panel 管理、切换：
+[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example.gif]]
+
+switch between sessions
+[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example_2.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example_2.gif]]
 *** tmuxinator
 [[https://github.com/tmuxinator/tmuxinator][github:tmuxinator]] : Manage complex tmux sessions easily
 从配置文件中读取tmux configuration,然后启动一个会话
