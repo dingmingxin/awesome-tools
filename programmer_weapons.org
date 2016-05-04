@@ -166,10 +166,10 @@ zsh的配置文件
 tmux + tmuxinator
 
 window、panel 管理、切换：
-[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example.gif]]
+[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples.gif]]
 
 switch between sessions
-[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example_2.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_example_2.gif]]
+[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples_2.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples_2.gif]]
 *** tmuxinator
 [[https://github.com/tmuxinator/tmuxinator][github:tmuxinator]] : Manage complex tmux sessions easily
 从配置文件中读取tmux configuration,然后启动一个会话
