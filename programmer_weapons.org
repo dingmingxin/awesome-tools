@@ -422,8 +422,9 @@ Ctrl-v
 还可以用于高级的编辑
 
 还可以用于设置编辑的选项等等
-****** 模式间的转换
-******* Normal->Insert
+***** 模式间的转换
+****** Normal->Insert
+
 在normal模式下按下这些键可以进入 insert模式
 
 下面是这些按下这些键，进入insert模式之后光标的位置说明
@@ -436,16 +437,16 @@ Ctrl-v
 - O 在当前行之上新建行进入插入状态
 - s 删除光标下的字符进入插入状态
 - S 删除所在行
-******* Normal->Visual
+****** Normal->Visual
 v V C-v
 
-******* Normal->Command-Line
+****** Normal->Command-Line
 :
 
-******* Visual->Command-Line
+****** Visual->Command-Line
 :
 
-******* Other-mode -> Normal
+****** Other-mode -> Normal
 ESC
 ***** 编辑
 大部分的编辑技巧在于normal状态，Insert状态下
