@@ -134,7 +134,14 @@ dotfiles:
 **** 安装
 1. download release file: dmxdotfiles.tar.gz
 2. untar
-3. cp -r dmxdotfiles ~/dotfiles && cd ~/dotfiles && ./deploy zsh
+3. install
+
+#+begin_src sh
+  cp -r dmxdotfiles ~/dotfiles
+  cd ~/dotfiles
+  ./deploy zsh
+#+end_src
+
 **** 配置文件介绍
 ***** ~/.zsh_alias.zsh
 全局的alias
@@ -165,10 +172,10 @@ zsh的配置文件
 *** Examples
 tmux + tmuxinator
 
-window、panel 管理、切换：
+window、panel 管理、切换:
 [[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples.gif]]
 
-switch between sessions
+switch between sessions :
 [[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples_2.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_tmux_examples_2.gif]]
 *** tmuxinator
 [[https://github.com/tmuxinator/tmuxinator][github:tmuxinator]] : Manage complex tmux sessions easily
