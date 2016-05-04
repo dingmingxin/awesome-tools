@@ -33,21 +33,17 @@ bash是大多数linux发行版的默认shell环境，是最通用、最流行的
 大多数用过bash的同学肯定有同感，bash的自动提示功能太弱了，即使有了bash-completion, 补全功能也很有限，下面我总结了一下zsh优于bash的一些特点:
 
 1.  强大的补全功能
-
     1.  cd补全
     2.  命令选项补全
     3.  path completion and expansion
     4.  git completion
     5.  其他各种好用的补全提示
-
 2.  错误检查自动更正
 3.  命令行右提示
 4.  自定义命令
-
     1.  normal alias like bash
     2.  global alias
     3.  前缀替换
-
 5.  可编程式文件批量重命名 : zmv
 6.  zsh-history-substring-search
 7.  功能强大的开源库：[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -55,11 +51,8 @@ bash是大多数linux发行版的默认shell环境，是最通用、最流行的
 ### 具体特点详述
 
 zsh特性繁多，在此我只简单介绍一两个我熟悉并且经常使用的特性
-
 #### 自动补全
-
 ##### cd 自动补全
-
 ###### 路径缩写补全
 
 cd /d/w/t/0 -\> cd /data/work/test/01
