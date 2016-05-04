@@ -79,11 +79,25 @@ zsh特性繁多，在此我只简单介绍一两个我熟悉并且经常使用�
 **** 自动补全
 ***** cd 自动补全
 ****** 路径缩写补全
-cd /d/w/t/0 -> cd /data/work/test/01
+#+begin_src sh
+  cd /d/w/t/0 
+  # 相当于下面这行
+  cd /data/work/test/01
+#+end_src
 ****** 路径替换
-1. cd /usr/local/bin && cd bin share -> cd /usr/local/bin && cd ../share
-2. cd /data/www/site1/apps/common/logic/test && cd site1 site2 
-   相当于 cd /data/www/site1/apps/common/logic/test && cd ../../../../site2/apps/common/logic/test
+1.
+#+begin_src sh
+  cd /usr/local/bin && cd bin share 
+  # 相当于下面这行
+  cd /usr/local/bin && cd ../share
+#+end_src
+
+2. 
+  #+begin_src sh
+    cd /data/www/site1/apps/common/logic/test && cd site1 site2 
+    #相当于
+    cd /data/www/site1/apps/common/logic/test && cd ../../../../site2/apps/common/logic/test
+  #+end_src 
 ***** 命令选项补全
 Examples:
 
@@ -111,9 +125,15 @@ zsh自身对终端提示有很好的支持接口，并且自带了对版本控�
 *** oh-my-zsh
 zsh在开源社区，有个很著名的仓库: [[https://github.com/robbyrussell/oh-my-zsh][oh-my-zsh]]
 **** Install
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+#+begin_src sh
+  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+#+end_src
+
 或者：
-sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+
+#+begin_src sh
+  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+#+end_src
 **** 简介
 oh-my-zsh 安装完成后，会有~/.zshrc ~/.oh-my-zsh
 所有的插件、命令alias、主题等都在 ~/.oh-my-zsh
