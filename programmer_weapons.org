@@ -28,6 +28,7 @@
      - [[#神之编辑器---emacs][神之编辑器 - Emacs]]
      - [[#神神编辑器---spacemacsemacsevil-mode-and-more][神神编辑器 - spacemacs(emacs+evil-mode and more)]]
    - [[#fzf][fzf]]
+     - [[#我写的fzf工具][我写的fzf工具]]
    - [[#alfredapp][Alfred.app]]
  - [[#总结][总结]]
    - [[#关于编辑器][关于编辑器]]
@@ -541,6 +542,15 @@ r       --3.告诉emacs我要使用Files->OpenRecentFiles菜单项，请给我�
 github 地址: [[https://github.com/junegunn/fzf][fzf-github]]
 这是一个go语言写的工具，用于命令行的fuzzy finder
 他的输入是一个数组，输出是用户的选择项。
+*** 我写的fzf工具
+[[https://github.com/dingmingxin/fzf-emacsbuffers][fzf-emacsbuffers]]
+这个工具用于命令行，查看当前emacs所打开的buffer，选择后可以进入emacs并打开指定的buffer
+
+注意：这个工具仅限于命令行下emacs 的daemon 模式
+
+Example:
+
+![](https://raw.githubusercontent.com/dingmingxin/fzf-emacsbuffers/master/fzf-emacsbuffers.gif)
 
 ** Alfred.app
 很多的workflow，和电脑更好、更快捷的交互
