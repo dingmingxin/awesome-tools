@@ -554,7 +554,7 @@ github 地址: [[https://github.com/junegunn/fzf][fzf-github]]
 
 Example:
 
-[[https://raw.githubusercontent.com/dingmingxin/fzf-emacsbuffers/master/fzf-emacsbuffers.gif][https://raw.githubusercontent.com/dingmingxin/fzf-emacsbuffers/master/fzf-emacsbuffers.gif]]
+[[https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_febf.gif][https://raw.githubusercontent.com/dingmingxin/awesome-tools/master/pics/gif_febf.gif]]
 
 ** Alfred.app
 很多的workflow，和电脑更好、更快捷的交互
