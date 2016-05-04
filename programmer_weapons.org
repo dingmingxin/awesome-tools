@@ -554,8 +554,6 @@ Example:
 
 [[https://raw.githubusercontent.com/dingmingxin/fzf-emacsbuffers/master/fzf-emacsbuffers.gif][https://raw.githubusercontent.com/dingmingxin/fzf-emacsbuffers/master/fzf-emacsbuffers.gif]]
 
-[[https://gitter.im/punchagan/org2blog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][https://badges.gitter.im/Join%20Chat.svg]] 
-
 ** Alfred.app
 很多的workflow，和电脑更好、更快捷的交互
 * 总结
