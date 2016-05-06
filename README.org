@@ -1,9 +1,9 @@
 [[http://www.gnu.org/licenses/gpl-3.0.html][http://img.shields.io/:license-gpl3-blue.svg]]
 
-* 目录                                                               :TOC_3_gh:
- - [[#程序员的七种武器][程序员的七种武器]]
- - [[#其他有用的工具][其他有用的工具]]
+* 目录                                                                  :TOC_3_gh:
+ - [[#七种武器][七种武器]]
+ - [[#tools-in-my-toolbox][Tools in my ToolBox]]
 
-* 程序员的七种武器
-[[https://github.com/dingmingxin/awesome-tools/blob/master/programmer_weapons.org][程序员的七种武器]]
-* 其他有用的工具
+* 七种武器
+[[http://dingmingxin.github.io/blog/2016/05/05/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%B8%83%E7%A7%8D%E6%AD%A6%E5%99%A8/][程序员的七种武器]]
+* Tools in my ToolBox
