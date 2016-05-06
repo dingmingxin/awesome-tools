@@ -1,48 +1,9 @@
 [[http://www.gnu.org/licenses/gpl-3.0.html][http://img.shields.io/:license-gpl3-blue.svg]]
 
 * 目录                                                                  :TOC_3_gh:
- - [[#工具说-][工具说 ]]
- - [[#配置文件][配置文件]]
  - [[#七种武器][七种武器]]
-   - [[#zsh-][Zsh ]]
-   - [[#tmux-][Tmux ]]
-   - [[#ag][Ag]]
-   - [[#ctags][Ctags]]
-   - [[#editors][Editors]]
-   - [[#fzf][Fzf]]
-   - [[#alfred][Alfred]]
- - [[#总结][总结]]
-   - [[#关于编辑器][关于编辑器]]
+ - [[#tools-in-my-toolbox][Tools in my ToolBox]]
 
-* 工具说 
-工欲善其事，必先利其器
-
-人和动物的最大区别就是，人能使用、创造工具
-程序员的能力高低，也能通过其创造、利用工具的能力来评判
-
-这些我个人在平时的工作中用到的一些工具，它们让我的工作
-更加高效。下面我讲一一介绍:
-
-注，本文介绍的武器基本都属于命令行下的应用程序
-* 配置文件
-本文介绍的工具，配置文件请参考:[[https://github.com/dingmingxin/dotfiles/releases/tag/v0.1.0][dmxdotfiles-v0.1.0]]
 * 七种武器
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/zsh.org][Zsh]] 
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/tmux.org][Tmux]] 
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/tmux.org][Ag]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/ctags.org][Ctags]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/editors.org][Editors]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/fzf.org][Fzf]]
-** [[https://github.com/dingmingxin/awesome-tools/blob/master/weapons/alfred.org][Alfred]]
-* 总结
-** 关于编辑器
-编辑器对于程序员来说就像是一把利刃，用好了能事半功倍
-
-但是不管你是vim党还是emacs党，我们选择编辑器，
-并且深入学习、定制、为其写插件的目的都是一样的，
-那就是更加高效的学习、工作。
-
-不管你选择vim/emacs/spacemacs 或者其他，只要你对它
-了解、熟悉，更好的，甚至是精通，它能乖乖的听你的话，
-那就是有益的；反之，你该思考一下是不是该换一款得心应手
-的编辑器
+[[http://dingmingxin.github.io/blog/2016/05/05/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%B8%83%E7%A7%8D%E6%AD%A6%E5%99%A8/][程序员的七种武器]]
+* Tools in my ToolBox
